@@ -1,5 +1,5 @@
 # Potato-Disease-Classification-Using-CNN
-
+DATASET : https://www.kaggle.com/datasets/faysalmiah1721758/potato-dataset?select=Potato___Late_blight
 Overview
 This project is an end-to-end deep learning application aimed at detecting potato plant diseases, specifically early blight and late blight, in the agriculture domain. The system allows farmers to use a mobile application to take a picture of their potato plants, and the app will determine if the plant is healthy or infected with one of the two diseases. This solution leverages convolutional neural networks (CNN) for image classification, TensorFlow Lite for model optimization, and a backend built using FastAPI and TF Serving for efficient model serving. The project also involves deployment on Google Cloud Platform (GCP) with Google Cloud Functions.
 
